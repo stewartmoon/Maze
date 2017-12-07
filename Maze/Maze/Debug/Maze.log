@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\smoon5\desktop\maze\maze\source.cpp(158): warning C4715: 'maze::runMaze': not all control paths return a value
+  Maze.vcxproj -> C:\Users\smoon5\Desktop\Maze\Debug\Maze.exe
+  Maze.vcxproj -> C:\Users\smoon5\Desktop\Maze\Debug\Maze.pdb (Full PDB)
